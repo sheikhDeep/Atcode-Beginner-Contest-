@@ -29,7 +29,7 @@ int main() {
 
     int tot = 1;
 
-    int ans = 1;
+    int ans = 0;
 
 
     while(tot < b) {
